@@ -10,7 +10,12 @@ Neon Cash Finder scriptini çalıştırdığınız zaman size şifre soracaktır
 Neon Cash Finder a giriş yaptığınızda sol üst küşeye yuvarlak üzerinde 'Neon' yazılı bir buton ve önünüze asıl menü gelecektir.
 Yuvarlak buton sayensinde büyük menüyü gizleyebilirsiniz.
 
+# SATIN ALIM
+
+Yazılımımızın 15 Robux ücretlendirmesi vardır iletişim için instagram pstrxion.inc
+
 # ŞİFRE
 Yazılımımız şifre ile korunmaktadır. Neon Cash Finder a erişmek için instagram üzerinden pstrxion.inc hesabını takip edip dm den yazmanız gerekmektedir.
+
 
 # powered by pstrxion.inc
